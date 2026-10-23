@@ -12,114 +12,59 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Risma =====
-[1]Risma       |08:02:24 | 22-10-2026| login OK @rismaawardani | score=1630 rank=4428
-[1]Risma       |08:02:24 | 22-10-2026| serverTime=2026-10-22T08:02:24.000Z local=2026-10-22T08:02:24.630Z
+[1]Risma       |08:02:19 | 23-10-2026| login OK @rismaawardani | score=1750 rank=4203
+[1]Risma       |08:02:19 | 23-10-2026| serverTime=2026-10-23T08:02:19.000Z local=2026-10-23T08:02:19.288Z
 --> [1]Risma menjalankan: Claim Daily
-[1]Risma       |08:02:25 | 22-10-2026| daily: OK +10 poin score=1640
---> [1]Risma menjalankan: Auto All Tasks (11 pending)
-[1]Risma       |08:02:27 | 22-10-2026| [1/11] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113178554374452871
-[1]Risma       |08:02:27 | 22-10-2026| delay 10s...
-[1]Risma       |08:02:39 | 22-10-2026| [2/11] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113178643809674099
-[1]Risma       |08:02:39 | 22-10-2026| delay 10s...
-[1]Risma       |08:02:51 | 22-10-2026| [3/11] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113178637967132234
-[1]Risma       |08:02:51 | 22-10-2026| delay 10s...
-[1]Risma       |08:03:03 | 22-10-2026| [4/11] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113178961368556503
-[1]Risma       |08:03:03 | 22-10-2026| delay 10s...
-[1]Risma       |08:03:14 | 22-10-2026| [5/11] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113178875410435606
-[1]Risma       |08:03:14 | 22-10-2026| delay 10s...
-[1]Risma       |08:03:26 | 22-10-2026| [6/11] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113179032976530939
-[1]Risma       |08:03:26 | 22-10-2026| delay 10s...
-[1]Risma       |08:03:38 | 22-10-2026| [7/11] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113178952134719926
-[1]Risma       |08:03:38 | 22-10-2026| delay 10s...
-[1]Risma       |08:03:50 | 22-10-2026| [8/11] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113179167677803906
-[1]Risma       |08:03:50 | 22-10-2026| delay 10s...
-[1]Risma       |08:04:03 | 22-10-2026| [9/11] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113179280173164102
-[1]Risma       |08:04:03 | 22-10-2026| delay 10s...
-[1]Risma       |08:04:14 | 22-10-2026| [10/11] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/rismaawardani/status/2113179219074041675
-[1]Risma       |08:04:14 | 22-10-2026| delay 10s...
-[1]Risma       |08:04:27 | 22-10-2026| [11/11] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
-[1]Risma       |08:04:27 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Risma       |08:04:28 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/rismaawardani/status/2113179178288202447
+[1]Risma       |08:02:20 | 23-10-2026| daily: OK +10 poin score=1760
+--> [1]Risma menjalankan: Auto All Tasks (9 pending)
+[1]Risma       |08:02:22 | 23-10-2026| [1/9] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rismaawardani/status/2113541160607640375
+[1]Risma       |08:02:22 | 23-10-2026| delay 10s...
+[1]Risma       |08:02:34 | 23-10-2026| [2/9] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rismaawardani/status/2113541315464338294
+[1]Risma       |08:02:34 | 23-10-2026| delay 10s...
+[1]Risma       |08:02:46 | 23-10-2026| [3/9] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rismaawardani/status/2113541251057433571
+[1]Risma       |08:02:46 | 23-10-2026| delay 10s...
+[1]Risma       |08:02:58 | 23-10-2026| [4/9] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
+[1]Risma       |08:02:58 | 23-10-2026| delay 10s...
+[1]Risma       |08:03:10 | 23-10-2026| [5/9] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rismaawardani/status/2113541225331548145
+[1]Risma       |08:03:10 | 23-10-2026| delay 10s...
+[1]Risma       |08:03:22 | 23-10-2026| [6/9] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rismaawardani/status/2113541490028165888
+[1]Risma       |08:03:22 | 23-10-2026| delay 10s...
+[1]Risma       |08:03:35 | 23-10-2026| [7/9] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rismaawardani/status/2113541511387028715
+[1]Risma       |08:03:35 | 23-10-2026| delay 10s...
+[1]Risma       |08:03:47 | 23-10-2026| [8/9] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rismaawardani/status/2113541313641658947
+[1]Risma       |08:03:47 | 23-10-2026| delay 10s...
+[1]Risma       |08:04:00 | 23-10-2026| [9/9] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/rismaawardani/status/2113541640429733709
+[1]Risma       |08:04:00 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Risma       |08:04:01 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/rismaawardani/status/2113541462884846620
 --> [1]Risma menjalankan: Watch Anime
-[1]Risma       |08:04:29 | 22-10-2026| watch: 2 video belum completed: oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Risma       |08:04:29 | 22-10-2026| watch [1/2] farming oshi-rainbow-lighthouse...
-[1]Risma       |08:04:29 | 22-10-2026| watch oshi-rainbow-lighthouse: mulai dari 0 (record 48.5s diabaikan)
-[1]Risma       |08:04:30 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:04:36 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:04:42 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:04:48 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:04:55 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:05:01 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:05:07 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:05:13 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:05:19 | 22-10-2026| watch oshi-rainbow-lighthouse: 55% (48.51/87.00s)
-[1]Risma       |08:05:25 | 22-10-2026| watch oshi-rainbow-lighthouse: 56% (48.87/87.00s)
-[1]Risma       |08:05:31 | 22-10-2026| watch oshi-rainbow-lighthouse: 62% (54.33/87.00s)
-[1]Risma       |08:05:37 | 22-10-2026| watch oshi-rainbow-lighthouse: 69% (60.06/87.00s)
-[1]Risma       |08:05:43 | 22-10-2026| watch oshi-rainbow-lighthouse: 75% (65.39/87.00s)
-[1]Risma       |08:05:49 | 22-10-2026| watch oshi-rainbow-lighthouse: 81% (70.73/87.00s)
-[1]Risma       |08:05:55 | 22-10-2026| watch oshi-rainbow-lighthouse: 87% (76.03/87.00s)
-[1]Risma       |08:06:01 | 22-10-2026| watch oshi-rainbow-lighthouse: 93% (81.35/87.00s)
-[1]Risma       |08:06:01 | 22-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.35/87.00s)
-[1]Risma       |08:06:06 | 22-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
-[1]Risma       |08:06:07 | 22-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Risma       |08:06:13 | 22-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.09/181.00s)
-[1]Risma       |08:06:19 | 22-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.41/181.00s)
-[1]Risma       |08:06:25 | 22-10-2026| watch bakeru-ikesou-jan-mv: 8% (15.71/181.00s)
-[1]Risma       |08:06:32 | 22-10-2026| watch bakeru-ikesou-jan-mv: 11% (21.66/181.00s)
-[1]Risma       |08:06:38 | 22-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.19/181.00s)
-[1]Risma       |08:06:44 | 22-10-2026| watch bakeru-ikesou-jan-mv: 17% (32.55/181.00s)
-[1]Risma       |08:06:50 | 22-10-2026| watch bakeru-ikesou-jan-mv: 20% (38.00/181.00s)
-[1]Risma       |08:06:56 | 22-10-2026| watch bakeru-ikesou-jan-mv: 24% (43.92/181.00s)
-[1]Risma       |08:07:03 | 22-10-2026| watch bakeru-ikesou-jan-mv: 27% (49.50/181.00s)
-[1]Risma       |08:07:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.28/181.00s)
-[1]Risma       |08:07:15 | 22-10-2026| watch bakeru-ikesou-jan-mv: 33% (60.61/181.00s)
-[1]Risma       |08:07:21 | 22-10-2026| watch bakeru-ikesou-jan-mv: 36% (65.90/181.00s)
-[1]Risma       |08:07:27 | 22-10-2026| watch bakeru-ikesou-jan-mv: 39% (71.23/181.00s)
-[1]Risma       |08:07:33 | 22-10-2026| watch bakeru-ikesou-jan-mv: 42% (77.13/181.00s)
-[1]Risma       |08:07:39 | 22-10-2026| watch bakeru-ikesou-jan-mv: 45% (82.58/181.00s)
-[1]Risma       |08:07:45 | 22-10-2026| watch bakeru-ikesou-jan-mv: 48% (87.88/181.00s)
-[1]Risma       |08:07:51 | 22-10-2026| watch bakeru-ikesou-jan-mv: 51% (93.17/181.00s)
-[1]Risma       |08:07:57 | 22-10-2026| watch bakeru-ikesou-jan-mv: 54% (98.76/181.00s)
-[1]Risma       |08:08:04 | 22-10-2026| watch bakeru-ikesou-jan-mv: 57% (104.25/181.00s)
-[1]Risma       |08:08:10 | 22-10-2026| watch bakeru-ikesou-jan-mv: 60% (109.94/181.00s)
-[1]Risma       |08:08:16 | 22-10-2026| watch bakeru-ikesou-jan-mv: 63% (115.65/181.00s)
-[1]Risma       |08:08:22 | 22-10-2026| watch bakeru-ikesou-jan-mv: 66% (120.99/181.00s)
-[1]Risma       |08:08:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: 69% (126.31/181.00s)
-[1]Risma       |08:08:34 | 22-10-2026| watch bakeru-ikesou-jan-mv: 72% (131.69/181.00s)
-[1]Risma       |08:08:40 | 22-10-2026| watch bakeru-ikesou-jan-mv: 75% (137.19/181.00s)
-[1]Risma       |08:08:46 | 22-10-2026| watch bakeru-ikesou-jan-mv: 78% (142.56/181.00s)
-[1]Risma       |08:08:52 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (147.89/181.00s)
-[1]Risma       |08:08:59 | 22-10-2026| watch bakeru-ikesou-jan-mv: 84% (153.26/181.00s)
-[1]Risma       |08:09:05 | 22-10-2026| watch bakeru-ikesou-jan-mv: 88% (159.29/181.00s)
-[1]Risma       |08:09:11 | 22-10-2026| watch bakeru-ikesou-jan-mv: 91% (165.09/181.00s)
-[1]Risma       |08:09:11 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (165.09/181.00s)
+[1]Risma       |08:04:03 | 23-10-2026| watch: semua video sudah completed
 --> [1]Risma menjalankan: Read Article
-[1]Risma       |08:09:12 | 22-10-2026| news: 27/27 artikel selesai dibaca
-[1]Risma       |08:09:13 | 22-10-2026| mint eligibility: {"userId":"1715061177318027268","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Risma       |08:09:18 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Risma       |08:09:26 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Risma       |08:04:05 | 23-10-2026| news: 27/27 artikel selesai dibaca
+[1]Risma       |08:04:06 | 23-10-2026| mint eligibility: {"userId":"1715061177318027268","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Risma       |08:04:12 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Risma       |08:04:20 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Risma       |08:04:28 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Risma menjalankan: Quiz Anime
-[1]Risma       |08:09:29 | 22-10-2026| quiz ep1: sudah dijawab
-[1]Risma       |08:09:29 | 22-10-2026| quiz ep2: sudah dijawab
-[1]Risma       |08:09:29 | 22-10-2026| quiz ep3: sudah dijawab
-[1]Risma       |08:09:29 | 22-10-2026| quiz ep4: sudah dijawab
-[1]Risma       |08:09:29 | 22-10-2026| quiz ep5: sudah dijawab
-[1]Risma       |08:09:29 | 22-10-2026| quiz ep6: sudah dijawab
+[1]Risma       |08:04:31 | 23-10-2026| quiz ep1: sudah dijawab
+[1]Risma       |08:04:31 | 23-10-2026| quiz ep2: sudah dijawab
+[1]Risma       |08:04:31 | 23-10-2026| quiz ep3: sudah dijawab
+[1]Risma       |08:04:31 | 23-10-2026| quiz ep4: sudah dijawab
+[1]Risma       |08:04:31 | 23-10-2026| quiz ep5: sudah dijawab
+[1]Risma       |08:04:31 | 23-10-2026| quiz ep6: sudah dijawab
 --> [1]Risma menjalankan: Music Missions (realtime, bisa lama!)
-[1]Risma       |08:09:30 | 22-10-2026| music: kedua misi sudah tercapai, stop
-[1]Risma       |08:09:31 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Risma       |08:09:31 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Risma       |08:09:31 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Risma       |08:04:33 | 23-10-2026| music: kedua misi sudah tercapai, stop
+[1]Risma       |08:04:33 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Risma       |08:04:33 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Risma       |08:04:33 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Risma menjalankan: Claim Missions
-[1]Risma       |08:09:31 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Risma       |08:09:31 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Risma       |08:09:31 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Risma       |08:04:34 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Risma       |08:04:34 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Risma       |08:04:34 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Risma menjalankan: Check Eligibility
 
 --- eligibility [1]Risma ---
-  @rismaawardani | score=1630 rank=4428
-  tasks    [#################---] 73/84
+  @rismaawardani | score=1750 rank=4203
+  tasks    [############--------] 13/22
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -130,14 +75,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Risma menjalankan: Read Manga
-[1]Risma       |08:09:35 | 22-10-2026| manga: 0/13 chapter belum completed
+[1]Risma       |08:04:38 | 23-10-2026| manga: 0/13 chapter belum completed
 --> [1]Risma menjalankan: Get Gift
-[1]Risma       |08:09:35 | 22-10-2026| gift: 0/4 belum diterima
+[1]Risma       |08:04:38 | 23-10-2026| gift: 0/4 belum diterima
 --> [1]Risma menjalankan: Setup Profile
-[1]Risma       |08:09:36 | 22-10-2026| profile: bio="https://x.com/rismaawardani" fav=mony rewardAt=1791686537
-[1]Risma       |08:09:36 | 22-10-2026| profile: bonus sudah diklaim, skip
+[1]Risma       |08:04:39 | 23-10-2026| profile: bio="https://x.com/rismaawardani" fav=mony rewardAt=1791686537
+[1]Risma       |08:04:39 | 23-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Risma menjalankan: Bind Wallet
-[1]Risma       |08:09:36 | 22-10-2026| wallet: sudah terikat 3nvDNh6AXi... (solana)
+[1]Risma       |08:04:40 | 23-10-2026| wallet: sudah terikat 3nvDNh6AXi... (solana)
 
 == RINGKASAN ==
-- Risma: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Risma: daily=claimed | tasks OK 10/10 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
