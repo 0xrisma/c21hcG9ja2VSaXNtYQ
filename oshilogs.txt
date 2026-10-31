@@ -12,66 +12,62 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Risma =====
-[1]Risma       |07:54:38 | 30-10-2026| login OK @rismaawardani | score=2410 rank=3283
-[1]Risma       |07:54:38 | 30-10-2026| serverTime=2026-10-30T07:54:38.000Z local=2026-10-30T07:54:38.642Z
+[1]Risma       |07:46:48 | 31-10-2026| login OK @rismaawardani | score=2490 rank=3182
+[1]Risma       |07:46:48 | 31-10-2026| serverTime=2026-10-31T07:46:48.000Z local=2026-10-31T07:46:48.904Z
 --> [1]Risma menjalankan: Claim Daily
-[1]Risma       |07:54:39 | 30-10-2026| daily: OK +10 poin score=2420
---> [1]Risma menjalankan: Auto All Tasks (7 pending)
-[1]Risma       |07:54:41 | 30-10-2026| [1/7] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rismaawardani/status/2116076043170871687
-[1]Risma       |07:54:41 | 30-10-2026| delay 10s...
-[1]Risma       |07:54:52 | 30-10-2026| [2/7] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rismaawardani/status/2116076049600163757
-[1]Risma       |07:54:52 | 30-10-2026| delay 10s...
-[1]Risma       |07:55:04 | 30-10-2026| [3/7] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rismaawardani/status/2116075980896083856
-[1]Risma       |07:55:04 | 30-10-2026| delay 10s...
-[1]Risma       |07:55:17 | 30-10-2026| [4/7] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rismaawardani/status/2116075942283061609
-[1]Risma       |07:55:17 | 30-10-2026| delay 10s...
-[1]Risma       |07:55:30 | 30-10-2026| [5/7] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rismaawardani/status/2116076140115120533
-[1]Risma       |07:55:30 | 30-10-2026| delay 10s...
-[1]Risma       |07:55:42 | 30-10-2026| [6/7] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/rismaawardani/status/2116076119837099357
-[1]Risma       |07:55:42 | 30-10-2026| delay 10s...
-[1]Risma       |07:55:54 | 30-10-2026| [7/7] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
-[1]Risma       |07:55:54 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Risma       |07:55:55 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/rismaawardani/status/2116076161978976425
+[1]Risma       |07:46:49 | 31-10-2026| daily: OK +10 poin score=2500
+--> [1]Risma menjalankan: Auto All Tasks (5 pending)
+[1]Risma       |07:46:52 | 31-10-2026| [1/5] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rismaawardani/status/2116436211831004284
+[1]Risma       |07:46:52 | 31-10-2026| delay 10s...
+[1]Risma       |07:47:04 | 31-10-2026| [2/5] 2a71892a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rismaawardani/status/2116436173371748409
+[1]Risma       |07:47:04 | 31-10-2026| delay 10s...
+[1]Risma       |07:47:15 | 31-10-2026| [3/5] caaa7a93 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rismaawardani/status/2116436301186083585
+[1]Risma       |07:47:15 | 31-10-2026| delay 10s...
+[1]Risma       |07:47:29 | 31-10-2026| [4/5] d4f05f1e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rismaawardani/status/2116436463713929068
+[1]Risma       |07:47:29 | 31-10-2026| delay 10s...
+[1]Risma       |07:47:41 | 31-10-2026| [5/5] bbf7f979 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211633647463134 | proof=https://x.com/rismaawardani/status/2116436448769417826
+[1]Risma       |07:47:41 | 31-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Risma       |07:47:42 | 31-10-2026| [1/1] 15e8b695 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"15e8b695-463d-499a-8720-0d2f415e4897","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116336474631348 | proof=https://x.com/rismaawardani/status/2116436422597410066
 --> [1]Risma menjalankan: Watch Anime
-[1]Risma       |07:55:56 | 30-10-2026| watch: semua video sudah completed
+[1]Risma       |07:47:43 | 31-10-2026| watch: semua video sudah completed
 --> [1]Risma menjalankan: Read Article
-[1]Risma       |07:55:57 | 30-10-2026| news: 30/30 artikel selesai dibaca
-[1]Risma       |07:55:58 | 30-10-2026| mint eligibility: {"userId":"1715061177318027268","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Risma       |07:55:58 | 30-10-2026| news: semua artikel sudah dibaca
+[1]Risma       |07:47:44 | 31-10-2026| news: 30/32 artikel selesai dibaca
+[1]Risma       |07:47:44 | 31-10-2026| mint eligibility: {"userId":"1715061177318027268","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Risma       |07:47:51 | 31-10-2026| news [1/2] smart-pocket-monthly-2026-10: OK completed=31
+[1]Risma       |07:47:59 | 31-10-2026| news [2/2] oshi-labs-monthly-2026-10: OK completed=32
 --> [1]Risma menjalankan: Quiz Anime
 --> [1]Risma menjalankan: Music Missions (realtime, bisa lama!)
-[1]Risma       |07:56:00 | 30-10-2026| music: kedua misi sudah tercapai, stop
-[1]Risma       |07:56:01 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Risma       |07:56:01 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Risma       |07:56:01 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Risma       |07:48:03 | 31-10-2026| music: kedua misi sudah tercapai, stop
+[1]Risma       |07:48:03 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Risma       |07:48:03 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Risma       |07:48:03 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Risma menjalankan: Claim Missions
-[1]Risma       |07:56:01 | 30-10-2026| mission music-listens-10: sudah diklaim
-[1]Risma       |07:56:01 | 30-10-2026| mission music-minutes-30: sudah diklaim
-[1]Risma       |07:56:01 | 30-10-2026| mission anime-completed-3: sudah diklaim
+[1]Risma       |07:48:04 | 31-10-2026| mission music-listens-10: sudah diklaim
+[1]Risma       |07:48:04 | 31-10-2026| mission music-minutes-30: sudah diklaim
+[1]Risma       |07:48:04 | 31-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Risma menjalankan: Check Eligibility
 
 --- eligibility [1]Risma ---
-  @rismaawardani | score=2410 rank=3283
-  tasks    [#######-------------] 4/11
+  @rismaawardani | score=2490 rank=3182
+  tasks    [############--------] 7/12
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [?]
   watch    [####################] 22/17
   music    [##################--] 11/12
-  artikel  [####################] 30/30
+  artikel  [####################] 32/32
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Risma menjalankan: Read Manga
-[1]Risma       |07:56:06 | 30-10-2026| manga: 0/13 chapter belum completed
+[1]Risma       |07:48:08 | 31-10-2026| manga: 0/13 chapter belum completed
 --> [1]Risma menjalankan: Get Gift
-[1]Risma       |07:56:06 | 30-10-2026| gift: 1/6 belum diterima
-[1]Risma       |07:56:07 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
+[1]Risma       |07:48:08 | 31-10-2026| gift: 0/6 belum diterima
 --> [1]Risma menjalankan: Setup Profile
-[1]Risma       |07:56:09 | 30-10-2026| profile: bio="https://x.com/rismaawardani" fav=mony rewardAt=1791686537
-[1]Risma       |07:56:09 | 30-10-2026| profile: bonus sudah diklaim, skip
+[1]Risma       |07:48:09 | 31-10-2026| profile: bio="https://x.com/rismaawardani" fav=mony rewardAt=1791686537
+[1]Risma       |07:48:09 | 31-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Risma menjalankan: Bind Wallet
-[1]Risma       |07:56:10 | 30-10-2026| wallet: sudah terikat 3nvDNh6AXi... (solana)
+[1]Risma       |07:48:09 | 31-10-2026| wallet: sudah terikat 3nvDNh6AXi... (solana)
 
 == RINGKASAN ==
-- Risma: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
+- Risma: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 2 dibaca | manga 0/13 completed | gift 0/6 diterima | profile - | wallet bound | mint req=false open=false
